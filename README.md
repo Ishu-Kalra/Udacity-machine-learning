@@ -1,6 +1,6 @@
 ## Udacity-machine-learning
 
-All projects of the machine learning ND uploaded here for public viewing of the completed projects and the skills gained.
+Machine Learning ND uploaded here for public viewing of the completed projects and the skills gained.
 
 **Project 1: Train a smartcab project**
 
