@@ -20,6 +20,8 @@ Used two approaches:
 Achieved an accuracy of 99% using Machine Learning and 90% using Deep Learning.
 
 Get the dataset here: 
+
 **MIT-BIH**:https://physionet.org/physiobank/database/mitdb/ &
+
 **UCI**: https://archive.ics.uci.edu/ml/datasets/arrhythmia
 
