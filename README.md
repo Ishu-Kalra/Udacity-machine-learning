@@ -13,8 +13,8 @@ Used Convolution Neural Networks to classify images in the CIFAR-10 dataset.
 **Project 3: Capstone Project**
 
 Please go through the Project Proposal first.
-Used two approaches: 1. Pure Machine Learning to make an ensemble classifier on UCI arrhythmia dataset
-
+Used two approaches: 
+1. Pure Machine Learning to make an ensemble classifier on UCI arrhythmia dataset
 2. Deep Learning approach on the MIT-BIH dataset.
 
 Achieved an accuracy of 99% using Machine Learning and 90% using Deep Learning.
