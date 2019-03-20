@@ -6,7 +6,7 @@ Machine Learning ND uploaded here for public viewing of the completed projects a
 
 Used Q-learning agent for training a smartcab to drive to its destination in minimum amount of time without any major or minor accidents. Recieved A+ grade. Minimum passing grade was C.
 
-**Project 2: Image classification on CIFAR-1- dataset using CNN**
+**Project 2: Image classification on CIFAR-10 dataset using CNN**
 
 Used Convolution Neural Networks to classify images in the CIFAR-10 dataset.
 
